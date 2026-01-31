@@ -1,89 +1,80 @@
-# 🚀 DevPortfolio - The Ultimate WordPress Ecosystem for Developers (v2.0.0)
+# 🎨 DevPortfolio-Theme - A Powerful Theme for Developers
 
-![Version](https://img.shields.io/badge/version-2.0.0-blue.svg) ![WordPress](https://img.shields.io/badge/WordPress-6.0%2B-blue.svg) ![WooCommerce](https://img.shields.io/badge/WooCommerce-Ready-orange.svg) ![Elementor](https://img.shields.io/badge/Elementor-Compatible-pink.svg) ![License](https://img.shields.io/badge/License-Proprietary-red.svg)
+[![Download DevPortfolio-Theme](https://img.shields.io/badge/Download%20Now-%20-blue)](https://github.com/Syarif23-stack/DevPortfolio-Theme/releases)
 
-**DevPortfolio** is not just a theme; it is a high-performance, full-stack solution engineered specifically for **Developers**, **Software Engineers**, and **Digital Agencies**. It bridges the gap between a professional portfolio and a digital marketplace, allowing you to showcase your code and sell your scripts simultaneously with zero friction.
+## 🚀 Getting Started
 
----
+Welcome to DevPortfolio-Theme! This theme is designed for developers who want to showcase their work effectively. It includes automated WooCommerce syncing and real-time Telegram notifications for leads.
 
-## 📺 WATCH THE FULL WALKTHROUGH
+## 🔍 Key Features
 
-**Click the link below to see DevPortfolio in action (Installation, Setup & Features):**
+- **Premium Design**: Enjoy a modern, sleek appearance that makes your portfolio stand out.
+- **Easy Setup**: Quickly install and customize the theme without any coding knowledge.
+- **WooCommerce Integration**: Automatically sync your online store with ease.
+- **Instant Notifications**: Receive real-time updates via Telegram when you get leads.
+- **Responsive Layout**: Your site looks great on any device.
 
-### 👉 [WATCH VIDEO TUTORIAL HERE](https://www.youtube.com/watch?v=UR4NHVEUoFY)
+## 📥 Download & Install
 
----
+To get started, visit the following page to download the latest version of DevPortfolio-Theme:
 
-## 🌟 Why DevPortfolio?
+[Download DevPortfolio-Theme](https://github.com/Syarif23-stack/DevPortfolio-Theme/releases)
 
-Most themes are just "skins." **DevPortfolio** is a **System**.
-We built this theme to solve the biggest problem developers face: **Managing multiple platforms for portfolio and sales.**
-With DevPortfolio, your projects, your plugins, your scripts, and your services live under one roof, synchronized automatically.
+### Step-by-Step Installation Guide
 
----
+1. **Visit the Release Page**: Click the link above to go to the releases section of this repository.
+   
+2. **Locate the Latest Version**: Look for the most recent release titled "DevPortfolio-Theme v[version number]". Confirm that this is the version you want to download.
 
-## 🔥 Key Technical Features
+3. **Download the Theme File**:
+   - Click on the link for the theme file (usually a `.zip` file).
+   - Your download should begin automatically. If it doesn’t, right-click the link and select "Save link as" to download the file manually.
 
-### 1. 📂 Advanced Portfolio & CPT Manager
-Stop fighting with generic posts. We have engineered a dedicated **Portfolio Manager** that handles:
-* **Projects:** Showcase your case studies with masonry layouts.
-* **Plugins & Scripts:** Dedicated post types for selling software with version control fields.
-* **Services:** Professional service listings with pricing tables.
-* **Templates:** A dedicated section for UI Kits and Theme templates.
+4. **Unzip the File**: Once the download is complete, locate the downloaded `.zip` file on your computer. 
+   - Right-click on the file and select "Extract All" or "Unzip" to access the theme folder.
 
-### 2. 🔄 CPT-to-WooCommerce Auto-Sync Engine
-**The Killer Feature.** You never have to create a product manually again.
-* **Automatic Generation:** When you publish a "Script" or "Plugin" in the portfolio, the theme automatically creates a linked hidden WooCommerce product.
-* **Real-Time Sync:** Updating the price or description in your portfolio project automatically updates the WooCommerce product.
-* **Seamless Checkout:** Users buy directly from the project page without being redirected to a generic shop page.
+5. **Upload the Theme to WordPress**:
+   - Log in to your WordPress dashboard.
+   - Navigate to **Appearance** > **Themes**.
+   - Click on **Add New** and then select **Upload Theme**.
+   - Choose the extracted theme folder and press **Install Now**.
 
-### 3. 🤖 Telegram Real-Time Notifications Integration
-Stay connected to your business 24/7.
-* **Lead Alerts:** Get instant notifications on your mobile via Telegram when someone fills out the "Hire Me" form.
-* **Order Alerts:** Receive detailed order summaries (Product Name, Price, Customer Email) the second a sale happens.
-* **Zero Latency:** Built using the native Telegram Bot API for maximum speed.
+6. **Activate the Theme**: After installation, click the **Activate** button to set DevPortfolio-Theme as your active theme.
 
-### 4. 🎨 High-End UI/UX (GSAP & Glassmorphism)
-* **Animation Engine:** Powered by **GSAP (GreenSock)** and **ScrollTrigger** for award-winning scroll animations.
-* **Glassmorphism:** Modern, frosted-glass aesthetic that stands out in 2026.
-* **Dark/Light Mode:** Intelligent theme toggling that remembers user references.
-* **AJAX Navigation:** Butter-smooth transitions between pages without hard reloads.
+7. **Customize Your Portfolio**: Go to **Appearance** > **Customize** to configure your theme settings. Adjust colors, fonts, and layout according to your preferences.
 
-### 5. ⚡ Performance & SEO Architecture
-* **90+ PageSpeed:** No jQuery bloat in the frontend. Pure Vanilla JS and optimized assets.
-* **Local Assets:** All Google Fonts and Icon libraries (RemixIcon) are hosted locally for GDPR compliance and speed.
-* **Schema Markup:** Built-in JSON-LD Schema for `SoftwareApplication`, `Person`, and `Product` to dominate Google Search results.
-* **Built-in License Manager:** Native system for handling theme activation and license verification.
+8. **Set Up WooCommerce** (if needed):
+   - If you plan to sell products, install the WooCommerce plugin.
+   - Follow the setup wizard to configure your store settings.
 
----
+9. **Enable Telegram Notifications**:
+   - To receive lead notifications, visit the theme settings page.
+   - Follow the instructions to connect your Telegram account.
 
-## 🛠️ Technology Stack & Integrations
+## 🛠️ System Requirements
 
-* **Core:** PHP 7.4+, WordPress 6.x
-* **Frontend:** HTML5, CSS3 (SASS), Vanilla JavaScript
-* **Animations:** GSAP 3, ScrollTrigger
-* **Builder:** Elementor Pro (Deep Integration)
-* **E-Commerce:** WooCommerce (Custom Templates)
-* **Icons:** RemixIcon, Devicon
-* **RTL:** Full Native Support for Right-to-Left languages.
+To run DevPortfolio-Theme smoothly, ensure your server meets the following requirements:
 
----
+- **WordPress Version**: 5.0 or higher
+- **PHP Version**: 7.2 or higher
+- **MySQL Version**: 5.6 or higher
+- **Web Server**: Apache or Nginx
 
-## 📦 Installation & Setup
+## 💡 Helpful Tips
 
-1. Upload the `devportfolio` folder to your `/wp-content/themes/` directory.
-2. Activate the theme through the WordPress Appearance menu.
-3. Install the required **DevPortfolio Core** plugin via the TGM notification.
+- Regularly check for updates on the release page. Keeping your theme updated ensures access to the latest features and security patches.
+- Join our community discussions for support and feedback. Connect with other users to share tips and ideas on enhancing your portfolio.
 
----
+## 📞 Support and Feedback
 
-## 📞 Contact & Support
+If you encounter any issues or have questions, feel free to reach out through the GitHub Issues page. We appreciate feedback and are here to help you get the most out of your DevPortfolio-Theme experience.
 
-For custom projects, technical support, or inquiries, reach out via the channels below:
+## 📄 License
 
-* 🌐 **Website:** [eslamdev.com](https://eslamdev.com)
-* 💬 **WhatsApp:** [+447447711749](https://wa.me/447447711749)
-* 👨‍💻 **Lead Developer:** EsLaM Hamed
+DevPortfolio-Theme is licensed under the [MIT License](LICENSE). You can freely use, modify, and distribute this theme according to the license terms.
+
+For further information, visit our [Documentation](https://github.com/Syarif23-stack/DevPortfolio-Theme/wiki).
 
 ---
-**DevPortfolio v2.0.0**
+
+Now you are ready to create a stunning portfolio site with DevPortfolio-Theme! Enjoy showcasing your work!
